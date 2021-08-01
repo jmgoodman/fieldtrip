@@ -35,3 +35,4 @@ realtime/bin/*/test_pthread
 realtime/bin/*/test_waitdat
 
 external/npmk/NPMKverChecker.dat
+Data/p029_sort_final_01.nex
